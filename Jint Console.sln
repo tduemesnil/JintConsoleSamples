@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Jint Console RegExp", "JintConsole3\JintConsole3\3 Jint Console RegExp.csproj", "{D9B03FFB-B729-4169-9F99-F6B8BEE2F510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Jint Console Step By Step", "JintConsole4\JintConsole4\4 Jint Console Step By Step.csproj", "{B99C2DC5-40B4-417E-AF46-B6AE929C2EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Jint Console Vat Check", "JintConsole5\JintConsole5\5 Jint Console Vat Check.csproj", "{EF489E43-CA49-4906-8029-71B5CCA617F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 Jint Console Hello World", "JintConsole1\1 Jint Console Hello World.csproj", "{966E55ED-79B1-4643-846A-F7A81A4D58E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Jint Console Function Var", "JintConsole2\2 Jint Console Function Var.csproj", "{5E8C05FA-7B12-4EFD-9A6F-03D6F0204F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 Jint Console WebClient", "JintConsole6\6 Jint Console WebClient\6 Jint Console WebClient.csproj", "{3AD7BB5B-CA45-4A4F-B5E8-E8CFB4EB02D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B03FFB-B729-4169-9F99-F6B8BEE2F510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B03FFB-B729-4169-9F99-F6B8BEE2F510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B03FFB-B729-4169-9F99-F6B8BEE2F510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B03FFB-B729-4169-9F99-F6B8BEE2F510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99C2DC5-40B4-417E-AF46-B6AE929C2EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99C2DC5-40B4-417E-AF46-B6AE929C2EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99C2DC5-40B4-417E-AF46-B6AE929C2EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99C2DC5-40B4-417E-AF46-B6AE929C2EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF489E43-CA49-4906-8029-71B5CCA617F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF489E43-CA49-4906-8029-71B5CCA617F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF489E43-CA49-4906-8029-71B5CCA617F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF489E43-CA49-4906-8029-71B5CCA617F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966E55ED-79B1-4643-846A-F7A81A4D58E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966E55ED-79B1-4643-846A-F7A81A4D58E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966E55ED-79B1-4643-846A-F7A81A4D58E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966E55ED-79B1-4643-846A-F7A81A4D58E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8C05FA-7B12-4EFD-9A6F-03D6F0204F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8C05FA-7B12-4EFD-9A6F-03D6F0204F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8C05FA-7B12-4EFD-9A6F-03D6F0204F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8C05FA-7B12-4EFD-9A6F-03D6F0204F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD7BB5B-CA45-4A4F-B5E8-E8CFB4EB02D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD7BB5B-CA45-4A4F-B5E8-E8CFB4EB02D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD7BB5B-CA45-4A4F-B5E8-E8CFB4EB02D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD7BB5B-CA45-4A4F-B5E8-E8CFB4EB02D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
